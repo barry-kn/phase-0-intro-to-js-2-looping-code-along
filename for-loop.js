@@ -1,3 +1,4 @@
+
 const names = (["Ada", "Brendan", "Ali"]);
 
 function writeNames(names) {
